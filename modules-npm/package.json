@@ -1,0 +1,22 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnreis/nodeJs-intro.git"
+  },
+  "author": "johnn reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnreis/nodeJs-intro/issues"
+  },
+  "homepage": "https://github.com/johnnreis/nodeJs-intro#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
